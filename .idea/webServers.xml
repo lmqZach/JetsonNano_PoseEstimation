@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f7343cb3-02ff-49b8-8f99-64899f7d8852" name="jetbot">
+        <fileTransfer rootFolder="/home/jetbot" accessType="SFTP" host="100.81.37.104" port="22" sshConfigId="bd96ba1e-df01-47c5-a11a-27cae3f907f5" sshConfig="jetbot@100.81.37.104:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
