@@ -1,4 +1,4 @@
-# Jetbot Landmark Navigation with ROS
+# AprilTag Detection and Robot Pose Estimation
 
 ## Objective
 Use the on-board camera to drive to specific locations in the environment. 
