@@ -26,7 +26,7 @@
 Main algorithms reside under root/navigation_dev/src
 
 ## Objective
-Use the on-board camera to drive to specific locations in the environment. 
+Calibrated onboard camera using rospy and OpenCV, for AprilTags detection and robot pose estimation. Use the on-board camera to drive to specific locations in the environment. 
 
 ## Preparation Tasks
 1. AprilTags Setup from: https://github.com/AprilRobotics/apriltag
