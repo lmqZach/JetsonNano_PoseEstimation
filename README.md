@@ -1,5 +1,30 @@
 # AprilTag Detection and Robot Pose Estimation
 
+## File Structure
+
+```
+|-- ROOT
+  |-- README.md
+  |-- CMakeLists.txt
+  |-- init.sh
+  |-- jetbot_ROS
+  |   |-- ```
+  |-- jetson-inference
+  |   |-- ```
+  |-- navigation_dev
+  |   |-- CMakeLists.txt
+  |   |-- package.xml
+  |   |-- launch
+  |   |-- msg
+  |   |-- src
+  |          |-- april_detect.py
+  |          |-- localizatiojn_node.py
+  |          |-- planner_node.py
+  |-- ros_deep_learning
+      |-- ```
+```
+Main algorithms reside under root/navigation_dev/src
+
 ## Objective
 Use the on-board camera to drive to specific locations in the environment. 
 
